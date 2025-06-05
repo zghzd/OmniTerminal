@@ -1,0 +1,17 @@
+/*
+用户输入的命令|操作|定义的编码（int）
+
+<未定义的命令>|报错|-1
+exit|退出|0
+debug_filro|调试文件输出|1
+debug_filri|调试文件输入|2
+fixed|输出修复内容|3
+news|输出更新内容|4
+delopy|以指定模式部署|5
+net_sendtest|网络发送测试|6
+code|内部代码处理测试|7
+debug_memory|内存测试|8
+install_update|更新包更新|9
+install_back|回滚包回滚|10
+install_fix|修复包修复|11
+*/
