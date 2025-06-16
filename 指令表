@@ -16,4 +16,5 @@ install_back|回滚包回滚|10
 install_fix|修复包修复|11
 hook_dll_d|hookAPI和内存|12
 login|注册用户|13
+load|向users文件夹加载用户|14
 */
